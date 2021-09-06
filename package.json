@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/scriptype/scriptype.github.io#readme",
   "devDependencies": {
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "salinger": "^2.2.0"
   }
 }
