@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/scriptype/scriptype.github.io/issues"
   },
-  "homepage": "https://port-sciptype.vercel.app",
+  "homepage": "https://uvacoder.github.io/port-scriptype/",
   "devDependencies": {
     "handlebars": "^4.7.7",
     "salinger": "^2.2.0"
