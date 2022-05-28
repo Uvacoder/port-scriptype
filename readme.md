@@ -6,6 +6,8 @@ This is the source code of https://enes.in.
 
 # Development notes
 
+lastCommitHash=`sh scripts/tasks/get-last-commit-hash.sh` - I removed from the dev and build
+
 - Change index.hbs (not index.html)
 - Changes can be previewed locally by running `npm run dev` and `serve .` in
   seperate shells.
