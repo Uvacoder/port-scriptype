@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "lastCommitHash=`sh scripts/tasks/get-last-commit-hash.sh` salinger dev",
-    "build": "lastCommitHash=`sh scripts/tasks/get-last-commit-hash.sh` salinger build"
+    "dev": "salinger dev",
+    "build": "salinger build"
   },
   "repository": {
     "type": "git",
